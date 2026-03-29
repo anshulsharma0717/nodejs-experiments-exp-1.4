@@ -1,8 +1,11 @@
  React Experiments – Exp 2
 
 Student Details
+
 Name: Anshul Sharma
+
 UID: 24BDA70368
+
 Group: 24BDS-3(B)
 
 
